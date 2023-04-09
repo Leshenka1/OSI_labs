@@ -1,0 +1,31 @@
+!Main process start!
+Enter name of the file and amount of records
+employeeData 3
+!Creator process start!
+Enter the details of employee 1:
+ID: 1
+Name: vana
+Hours: 2
+Enter the details of employee 2:
+ID: 2
+Name: sema
+Hours: 3
+Enter the details of employee 3:
+ID: 3
+Name: lesha
+Hours: 1
+!Creator process is done!
+Содержимое employeeData:
+☺   vana вд Kхж ☻   ☻   sema вд Kхж ♥   ♥   lesha д Kхж ☺
+Enter name of the employee data file, report and salary per hour
+employeeData report1 2
+!Reporter process start!
+Reporter process is done
+Cодержимое report1.txt:
+Содержимое файла report1.txt:
+Отчет по файлу "report1.txt"
+Номер     Имя       Часы      Зарплата
+1         vana      2         4
+2         sema      3         6
+3         lesha     1         2
+Press any key to end Main process
