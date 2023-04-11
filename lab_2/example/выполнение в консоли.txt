@@ -1,0 +1,6 @@
+Enter size of array: 10
+Enter elements of array: -1 1 2 -2 3 -3 4 -4 5 -5
+Min element: -5
+Max element: 5
+Average element: 0
+-1 1 2 -2 3 -3 4 -4 0 0
